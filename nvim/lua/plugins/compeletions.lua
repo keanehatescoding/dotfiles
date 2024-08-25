@@ -1,5 +1,6 @@
 return {
 	"petertriho/cmp-git",
+	"github/copilot.vim",
 	{
 		"hrsh7th/cmp-nvim-lsp",
 	},

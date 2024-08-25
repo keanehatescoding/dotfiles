@@ -1,0 +1,27 @@
+# Core
+base
+base-devel
+git
+fish
+sddm
+hyprland
+kitty
+zen browser
+paru
+fzf
+
+# Programming
+neovim
+tmux
+
+# Security
+nmap
+metasploit
+burpsuite
+gdb
+
+# Opts
+bash
+zsh
+ripgrep
+fd
